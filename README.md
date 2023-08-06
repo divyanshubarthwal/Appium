@@ -1,4 +1,6 @@
 # Appium
+
+
 # Appium inspector : 1. Use to extract the location of the mobile elements.
                      2. Start the appium server manually to make it work
 # Commands : node -v :version of node
